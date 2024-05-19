@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(46, 46, 46);
+    border: 0px solid;
+    padding: 2px;
+}
+
+.gulugulu{
+    display: block;
+  margin: auto;
+  margin-left: 36%;
+  width: 50%;
+  margin-top: 10%;
+}
+.hoiyan{
+    
+    margin: auto;
+}
+.bar{
+   width: 450px;
+   height: 30px;
+   border-radius: 34px;
+   padding: 3px;
+   color: rgb(102, 102, 102);
+}
+.container{
+    display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            font-size: 12px;
+    padding: 4px 12px;
+    border-radius: 4px;
+    color: #fff;
+    
+}
+
+.buttons {
+    display: inline;
+  }
+  .action_btn {
+    display: inline;
+    color: rgb(102, 102, 102);
+  }
+  
